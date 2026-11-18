@@ -1,0 +1,4 @@
+Blynk
+DHT sensor library
+Adafruit Unified Sensor
+ESP32Servo
